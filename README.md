@@ -28,8 +28,7 @@ Gumshoe (A Private Detective Alias) is a Python tool that provides three options
     ```
     pip install -r requirements.txt
     ```
-- Save chromium webdriver for selenium in at "C:\Program Files (x86)\chromedriver.exe"
-- Add Github , Skyoe and ASKfm tokens to make them work as intended. Add tokens in [APIKEYS](apikeys.py)
+- Add Github token to make it work as intended. Add tokens in [APIKEYS](apikeys.py)
 
 ## Usage
 
