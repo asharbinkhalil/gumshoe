@@ -1,15 +1,7 @@
 
 ---
 
-```                         _                
-                           | |               
-   __ _ _   _ _ __ ___  ___| |__   ___   ___ 
-  / _` | | | | '_ ` _ \/ __| '_ \ / _ \ / _ \
- | (_| | |_| | | | | | \__ \ | | | (_) |  __/
-  \__, |\__,_|_| |_| |_|___/_| |_|\___/ \___|
-   __/ |                                     
-  |___/                                      
-```
+![Logo](/modules/logo.jpg)
 ## Gumshoe uses [whatsmyname](https://github.com/WebBreacher/WhatsMyName) for username search
 ## Also some email modules from [Poastal](https://github.com/jakecreps/poastal)
 
