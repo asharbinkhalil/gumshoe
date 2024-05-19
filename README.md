@@ -1,6 +1,3 @@
-
----
-
 ![Logo](/modules/logo.jpg)
 ## Gumshoe uses [whatsmyname](https://github.com/WebBreacher/WhatsMyName) for username search
 ## Also some email modules from [Poastal](https://github.com/jakecreps/poastal)
@@ -10,9 +7,9 @@ Gumshoe (A Private Detective Alias) is a Python tool that provides three options
 
 ## Features
 
-- **Search by Username**: Enter a username to search for related information.
-- **Search by Email**: Enter an email address to search for related information.
-- **Search by Domain**: Enter a domain name to search for related subdomains.
+- **Search by Username**: To search for related information.
+- **Search by Email**: To search for related information.
+- **Search by Domain**: To search for related subdomains.
 
 ## Prerequisites
 
@@ -50,7 +47,7 @@ Here's an example of how to use the script:
 
 ```
 --------------------------------------
-|            Gumshoe                 |
+|            Gumshoe🐶              |
 --------------------------------------
 | Options:                           |
 | 1. Search by Username              |
@@ -64,9 +61,9 @@ Enter the email to search: example@gmail.com
 
 ## Explanation of Modules
 
-- Follow this [USERNAME-README](./username_enumeration/README.md) for username
+- Follow this [USERNAME-README](./modules/username_enumeration/README.md) for username
 
-- Follow this [EMAIL-README](./email_enumeration/README.md) for email
+- Follow this [EMAIL-README](./modules/email_enumeration/README.md) for email
 
 - Subdomain enumeration using crt.sh API and google dorking to find subdomains.
 
